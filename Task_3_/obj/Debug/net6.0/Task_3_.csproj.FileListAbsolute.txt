@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\obj\Debug\net6.0\Task_3_.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\obj\Debug\net6.0\Task_3_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\obj\Debug\net6.0\Task_3_.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\obj\Debug\net6.0\Task_3_.AssemblyInfo.cs
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\obj\Debug\net6.0\Task_3_.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\bin\Debug\net6.0\Task_3_.exe
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\bin\Debug\net6.0\Task_3_.deps.json
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\bin\Debug\net6.0\Task_3_.runtimeconfig.json
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\bin\Debug\net6.0\Task_3_.dll
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\bin\Debug\net6.0\Task_3_.pdb
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\obj\Debug\net6.0\Task_3_.dll
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\obj\Debug\net6.0\refint\Task_3_.dll
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\obj\Debug\net6.0\Task_3_.pdb
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\obj\Debug\net6.0\Task_3_.genruntimeconfig.cache
+C:\Users\Admin\Desktop\HW_Seminar_5\Task_3_\obj\Debug\net6.0\ref\Task_3_.dll
